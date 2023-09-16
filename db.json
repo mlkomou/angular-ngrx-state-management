@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "author": "Florence scovelchin",
+      "name": "Le jeu de la vie",
+      "cost": 350
+    },
+    {
+      "id": 3,
+      "author": "Dupack Shopra",
+      "name": "Les 7 lois du succès",
+      "cost": 229
+    }
+  ]
+}
